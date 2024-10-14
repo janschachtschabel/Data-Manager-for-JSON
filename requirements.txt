@@ -1,0 +1,10 @@
+streamlit
+Pandas
+orjson
+matplotlib
+seaborn
+plotly
+textstat
+nltk
+langdetect
+textblob
